@@ -1,0 +1,11 @@
+# Lokale hemmeligheder
+.env
+.env.*
+!.env.example
+
+# Operativsystem og midlertidige editorfiler
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo

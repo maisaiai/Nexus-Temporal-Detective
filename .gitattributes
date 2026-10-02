@@ -1,0 +1,6 @@
+# Normalisér linjeskift i tekstfiler
+* text=auto
+*.md text eol=lf
+.editorconfig text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
